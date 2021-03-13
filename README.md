@@ -2,4 +2,4 @@
  primeiro repositório versionado
 
 
-essa linha eu adicionei diretamnete no site
+essa linha eu adicionei diretamente no site
